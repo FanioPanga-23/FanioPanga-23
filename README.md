@@ -1,4 +1,4 @@
-# <h1 align="center">Hello and Welcome to my *GITHUB* 👋</h1>
+## <h1 align="center">Hello and Welcome to my *GITHUB* 👋</h1>
 
 ## 🧑🏿‍💻 About Me
 
@@ -25,7 +25,7 @@ i'm profoundly passionate about my craft and consistently seek personal growth.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact&theme=github_dark)
 
-### ✨ Citação favorita
+### ✨ Favorite quote
 > *"If it's working don't touch"*
 
 ### 🌐 Contact
