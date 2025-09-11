@@ -2,12 +2,12 @@
 
 ## 🧑🏿‍💻 About Me
 
-Chamo-me **Fânio João Panga**, tenho 25 anos, natural de **Cuanza Norte, Angola**.
-Sou **apaixonado por tecnologia** e trilho o caminho da tecnologia com paixão e disciplina.
-Focado no **aprendizado contínuo**, sempre em busca da evolução e expanção das minhas habilidades.
-Acredito que o aprendizado contínuo é a chave para transformar ideias em realidade.
-Sou estudante de programação pela 42 Luanda, onde tenho desenvolvido projectos incríveis que têm me ajudado aprofundar os meus conhecimentos sobre ciência da computação.
-Além dos projectos também sou uma pessoa totalmente diferente, hoje consigo comunicar-me melhor e trabalhar em equipa.
+My name is **Fânio João Panga**, I am 25 years old, and I was born in **Cuanza Norte, Angola**.
+I am **passionate about technology** and I follow the path of technology with passion and discipline.
+Focused on **continuous learning**, I am always seeking to evolve and expand my skills.
+I believe that continuous learning is the key to turning ideas into reality.
+I am a programming student at 42 Luanda, where I have developed incredible projects that have helped me deepen my knowledge of computer science.
+In addition to the projects, I am also a totally different person. Today, I am able to communicate better and work in a team.
 i'm profoundly passionate about my craft and consistently seek personal growth.
 
 ### Stack
@@ -28,11 +28,9 @@ i'm profoundly passionate about my craft and consistently seek personal growth.
 ### ✨ Citação favorita
 > *"If it's working don't touch"*
 
-## 🌐 Contact
+### 🌐 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faniomears9)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanioPanga-23/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/faniopanga-23/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![Gmail]()](faniospanga@gmail.com)
 - 📧 **faniospanga@email.com**
