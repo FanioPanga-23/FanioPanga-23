@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fânio João Panga
+### Olá! Eu sou o Fânio Panga
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faniomears9)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanioPanga-23/)
