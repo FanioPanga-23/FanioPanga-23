@@ -4,7 +4,12 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanioPanga-23/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/faniopanga-23/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&bg_color=00000000)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=faniopanga-23" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faniopanga-23&layout=compact&langs_count=8&card_width=320"/>
+</a>
 
 ### Tecnologias
 
@@ -14,5 +19,3 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact)
