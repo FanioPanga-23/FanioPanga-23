@@ -5,6 +5,7 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/faniopanga-23/)
 
 ![Fanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact&theme=tokyonight)
 
 ### Tecnologias
