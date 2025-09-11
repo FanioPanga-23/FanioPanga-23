@@ -6,8 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact)
-
 ### Tecnologias
 
 <div>
@@ -16,3 +14,5 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact)
