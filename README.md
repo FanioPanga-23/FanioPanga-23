@@ -22,9 +22,9 @@ i'm profoundly passionate about my craft and consistently seek personal growth.
 </div>
 
 ### 📊 Statistics
-![Fanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&theme=github_dark&count_private=true)
+![Fanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact&theme=github_dark&langs_count=10&count_private=true&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact&theme=github_dark)
 
 ### ✨ Favorite quote
 > *"If it's working don't touch"*
