@@ -21,12 +21,6 @@ i'm profoundly passionate about my craft and consistently seek personal growth.
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-### Statistics
-
-![Fanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact&theme=github_dark&langs_count=8)
-
 ### Favorite quote
 > *"If it's working don't touch"*
 
