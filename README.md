@@ -1,6 +1,6 @@
-## <h1 align="center">Hello and Welcome to my *GITHUB* 👋</h1>
+## <h1 align="center">Welcome to my *GITHUB* 👋</h1>
 
-## 🧑🏿‍💻 About Me
+## About Me
 
 My name is **Fânio João Panga**, I am 25 years old, and I was born in **Cuanza Norte, Angola**.
 I am **passionate about technology** and I follow the path of technology with passion and discipline.
