@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is **Fânio João Panga**, I'm from Angola**.
+My name is **Fânio João Panga**, I'm from **Angola**.
 I am **passionate about technology** and I follow the path of technology with passion and discipline.
 Focused on **continuous learning**, I am always seeking to evolve and expand my skills.
 I believe that continuous learning is the key to turning ideas into reality.
