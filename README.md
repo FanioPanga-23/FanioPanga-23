@@ -21,17 +21,17 @@ i'm profoundly passionate about my craft and consistently seek personal growth.
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-### 📊 Statistics
+### Statistics
 ![Fanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniopanga-23&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniopanga-23&layout=compact&theme=github_dark)
 
-### ✨ Favorite quote
+### Favorite quote
 > *"If it's working don't touch"*
 
-### 🌐 Contact
+### Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faniomears9)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanioPanga-23/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/faniopanga-23/)
-- 📧 **faniospanga@email.com**
+- **faniospanga@email.com**
