@@ -34,4 +34,4 @@ i'm profoundly passionate about my craft and consistently seek personal growth.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faniomears9)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanioPanga-23/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/faniopanga-23/)
-- **faniospanga@email.com**
+- Email: **faniospanga@email.com**
